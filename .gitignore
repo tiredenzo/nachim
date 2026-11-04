@@ -1,0 +1,6 @@
+/build/
+/android/.gradle/
+/android/build/
+/android/local.properties
+__pycache__/
+.DS_Store

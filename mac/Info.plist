@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleExecutable</key><string>Nachim</string>
+    <key>CFBundleIdentifier</key><string>dev.usbvideo.controller</string>
+    <key>CFBundleName</key><string>Nachim</string>
+    <key>CFBundleDisplayName</key><string>Nachim</string>
+    <key>CFBundleIconFile</key><string>FrameShift.icns</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleVersion</key><string>3</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>NSLocalNetworkUsageDescription</key><string>Connect to your Android phone over its Wi-Fi hotspot to send videos and control playback.</string>
+</dict></plist>
